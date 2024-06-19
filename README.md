@@ -30,7 +30,7 @@ We welcome contributions from anyone who shares our mission and values. Here are
 
 ## Contact Us
 
-For more information, please visit our [website](http://www.therefugeevoice.org) or reach out to us at contact@therefugeevoice.org.
+For more information, please visit our [website](http://www.therefugeevoice.org) or reach out to us at info@therefugeevoice.org.
 
 ## License
 
